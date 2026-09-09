@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "assets/snake/**"
+      - "README.md"
 
 jobs:
   generate:
@@ -16,19 +19,28 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ShenHaoCore
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/snake/github-contribution-grid-snake.svg
+            assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake SVGs to output branch
+      - name: Commit snake assets to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake [skip ci]"
+          file_pattern: assets/snake/*.svg
+
+      - name: Publish snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: assets/snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

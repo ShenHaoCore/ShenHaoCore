@@ -77,16 +77,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShenHaoCore/ShenHaoCore/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShenHaoCore/ShenHaoCore/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ShenHaoCore/ShenHaoCore/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="./assets/snake/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<!-- CDN fallback if raw.githubusercontent.com fails:
-https://cdn.jsdelivr.net/gh/ShenHaoCore/ShenHaoCore@output/github-contribution-grid-snake-dark.svg
-https://cdn.jsdelivr.net/gh/ShenHaoCore/ShenHaoCore@output/github-contribution-grid-snake.svg
--->
 
 
 ---
