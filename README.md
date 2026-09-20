@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+ShenHao;Backend+.NET+%2F+C%23+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+ShenHao;Backend+%26+Systems+Developer;Language-agnostic+%C2%B7+AI-assisted" alt="Typing SVG" />
 
   <p>
-    <img src="https://img.shields.io/badge/Shenzhen-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/Focus-API%20%7C%20Scheduler-58A6FF?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Shenzhen-Developer-58A6FF?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Focus-API%20%7C%20Infra%20%7C%20AI-1F6FEB?style=flat-square" alt="Focus" />
   </p>
 
-  <p>C# / .NET backend · APIs · messaging · schedulers</p>
+  <p>Build systems, not language camps · pick the right tool with AI when it matters</p>
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,redis,docker,linux,nginx,git,githubactions,vscode" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,go,nodejs,mysql,redis,docker,linux,nginx,git,githubactions,vscode" alt="Stack" />
 </div>
 
 <br/>
