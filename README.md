@@ -12,10 +12,16 @@
 <br/>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=ShenHaoCore&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true#gh-light-mode-only" alt="Stats" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=ShenHaoCore&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="Stats" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ShenHaoCore&layout=compact&hide_border=true&theme=default&langs_count=6#gh-light-mode-only" alt="Languages" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ShenHaoCore&layout=compact&hide_border=true&theme=tokyonight&langs_count=6#gh-dark-mode-only" alt="Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ShenHaoCore&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=ShenHaoCore&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+    <img height="160" src="https://github-readme-stats.shion.dev/api?username=ShenHaoCore&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ShenHaoCore&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ShenHaoCore&layout=compact&hide_border=true&theme=default&langs_count=6" />
+    <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ShenHaoCore&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Languages" />
+  </picture>
 </div>
 
 <br/>
@@ -28,12 +34,18 @@
 
 <div align="center">
   <a href="https://github.com/ShenHaoCore/Sundial.Scheduler">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=default&hide_border=true#gh-light-mode-only" alt="Sundial.Scheduler" />
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Sundial.Scheduler" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=tokyonight&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=default&hide_border=true" alt="Sundial.Scheduler" />
+    </picture>
   </a>
   <a href="https://github.com/ShenHaoCore/ShaServiceSln">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=default&hide_border=true#gh-light-mode-only" alt="ShaServiceSln" />
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="ShaServiceSln" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=tokyonight&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=default&hide_border=true" alt="ShaServiceSln" />
+    </picture>
   </a>
 </div>
 
