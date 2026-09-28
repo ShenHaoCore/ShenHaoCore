@@ -33,18 +33,18 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ShenHaoCore/Sundial.Scheduler">
+  <a href="https://github.com/ShenHaoCore/agent-skills-library">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=tokyonight&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=default&hide_border=true" />
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=Sundial.Scheduler&theme=default&hide_border=true" alt="Sundial.Scheduler" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=tokyonight&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" alt="agent-skills-library" />
     </picture>
   </a>
-  <a href="https://github.com/ShenHaoCore/ShaServiceSln">
+  <a href="https://github.com/ShenHaoCore/TaskRunner">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=tokyonight&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=default&hide_border=true" />
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=ShaServiceSln&theme=default&hide_border=true" alt="ShaServiceSln" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=TaskRunner&theme=tokyonight&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=TaskRunner&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=TaskRunner&theme=default&hide_border=true" alt="TaskRunner" />
     </picture>
   </a>
 </div>
