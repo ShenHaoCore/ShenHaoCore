@@ -1,12 +1,8 @@
 ## 你好，我是 ShenHao
 
-后端与系统开发 · Go / C# / Python · 专注 API、基础设施与 AI 辅助工程
+后端与系统开发 · Go / C# / Python · 专注 API、基础设施与 AI 辅助工程 · 深圳
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=false&vCenter=true&width=380&lines=Backend+%26+Systems+Developer;Language-agnostic+%C2%B7+AI-assisted" alt="Typing SVG" />
-
-**深圳** · API / Infra / AI
-
-> 构建系统，而非站队语言 · 该用 AI 时就让 AI 上
 
 <br clear="right"/>
 
