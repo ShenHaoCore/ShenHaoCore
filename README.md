@@ -1,4 +1,4 @@
-## Hi, I'm ShenHao
+## 你好，我是 ShenHao
 
 后端与系统开发 · Go / C# / Python · 专注 API、基础设施与 AI 辅助工程
 
@@ -6,7 +6,7 @@
 
 **深圳** · API / Infra / AI
 
-> Build systems, not language camps · pick the right tool with AI when it matters
+> 构建系统，而非站队语言 · 该用 AI 时就让 AI 上
 
 <br clear="right"/>
 
