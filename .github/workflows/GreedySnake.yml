@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Checkout main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -35,7 +35,7 @@ jobs:
       # 因此只需把产物提交回 main；原先额外推一份到 output 分支属于冗余，
       # 已移除（output 分支保留但不再更新）。
       - name: Commit snake assets to main
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update contribution snake [skip ci]"
           file_pattern: assets/snake/*.svg
