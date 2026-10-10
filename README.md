@@ -68,3 +68,6 @@
     <img alt="Contribution snake" src="./assets/snake/github-contribution-grid-snake.svg" loading="lazy" />
   </picture>
 </div>
+
+<!-- 临时失效链接用于验证巡检告警链路，稍后移除 -->
+<img src="https://definitely-not-a-real-domain-xyz123.invalid/broken.png" alt="broken">
