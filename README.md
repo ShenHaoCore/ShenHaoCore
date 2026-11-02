@@ -14,53 +14,6 @@
 
 ---
 
-## 代表项目
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ShenHaoCore/AuthHub">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=AuthHub&theme=tokyonight&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=AuthHub&theme=default&hide_border=true" />
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=AuthHub&theme=default&hide_border=true" alt="AuthHub" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ShenHaoCore/TaskRunner">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=TaskRunner&theme=tokyonight&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=TaskRunner&theme=default&hide_border=true" />
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=TaskRunner&theme=default&hide_border=true" alt="TaskRunner" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ShenHaoCore/agent-skills-library">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=tokyonight&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" />
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" alt="agent-skills-library" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ShenHaoCore/VeloApp">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=VeloApp&theme=tokyonight&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=VeloApp&theme=default&hide_border=true" />
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=VeloApp&theme=default&hide_border=true" alt="VeloApp" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 数据
 
 <picture>
