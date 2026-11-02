@@ -19,15 +19,15 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ShenHaoCore/agent-skills-library">
+      <a href="https://github.com/ShenHaoCore/AuthHub">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=tokyonight&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" />
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" alt="agent-skills-library" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=AuthHub&theme=tokyonight&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=AuthHub&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=AuthHub&theme=default&hide_border=true" alt="AuthHub" />
         </picture>
       </a>
       <br/>
-      <sub>通用型 AI Agent Skills 集合，适配 GitHub Copilot / Claude Code</sub>
+      <sub>.NET 10 + OpenIddict 统一认证授权中心，支持 SSO、OAuth 2.0、OIDC、RBAC 与 MFA</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ShenHaoCore/TaskRunner">
@@ -38,7 +38,31 @@
         </picture>
       </a>
       <br/>
-      <sub>B 站每日任务自动化，Hangfire 调度 + ASP.NET Core API</sub>
+      <sub>.NET 9 + Hangfire 通用任务调度平台，支持插件式任务、Cron、Dashboard 与 REST API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ShenHaoCore/agent-skills-library">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=tokyonight&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=agent-skills-library&theme=default&hide_border=true" alt="agent-skills-library" />
+        </picture>
+      </a>
+      <br/>
+      <sub>通用型 AI Agent Skills 集合，适配 GitHub Copilot、Claude Code 等工具</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ShenHaoCore/VeloApp">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=VeloApp&theme=tokyonight&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=VeloApp&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ShenHaoCore&repo=VeloApp&theme=default&hide_border=true" alt="VeloApp" />
+        </picture>
+      </a>
+      <br/>
+      <sub>ASP.NET Core 模块化单体脚手架，采用 Minimal API、MediatR、EF Core 与 Vertical Slice</sub>
     </td>
   </tr>
 </table>
