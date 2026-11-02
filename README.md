@@ -10,7 +10,7 @@
 
 ## 技术栈
 
-<img src="https://skillicons.dev/icons?i=cs,py,js,ts,go,nodejs,mysql,redis,docker,linux,nginx,git,githubactions,vscode" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=go,cs,py,js,ts,dotnet,nodejs,mysql,mssql,postgres,redis,rabbitmq,linux,ubuntu,docker,nginx,git,github,githubactions,visualstudio,vscode" alt="Stack" />
 
 ---
 
